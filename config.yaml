@@ -1,0 +1,7 @@
+path: /Users/romero/Downloads/PORTAFOLIO_TORO/EN_PROCESO/ipso/data
+train: images/train
+val : images/train
+
+# Classes
+names:
+  0: total
